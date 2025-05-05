@@ -1,0 +1,1 @@
+console.log('Rafael Scorfi Gatto', 'idade', 44)

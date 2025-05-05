@@ -1,0 +1,4 @@
+Está faltando "aspas" no texto a ser mostrado no console.
+O comando deveria estar da seguinte forma:
+
+console.log('Alan Turing')

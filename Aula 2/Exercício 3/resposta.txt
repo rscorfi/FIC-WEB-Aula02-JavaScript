@@ -1,0 +1,1 @@
+Irá aparecer no console apenas a palavra "Hello", sem as aspas
