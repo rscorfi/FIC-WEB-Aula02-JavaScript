@@ -1,0 +1,6 @@
+As respostas serão:
+
+Linha 2: true
+Linha 3: boolean
+Linha 5: Hello, World!
+Linha 6: string

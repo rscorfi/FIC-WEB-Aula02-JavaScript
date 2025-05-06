@@ -1,0 +1,5 @@
+I)      1num    = inválido
+II)     _num    = válido
+III)    num_    = válido
+IV)     def     = válido
+V)      nu-m    =inválido
